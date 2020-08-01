@@ -37,7 +37,7 @@
 ---
 
 
-<img align="left" alt="Tommy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TommyBoshkovski&show_icons=true&hide_border=true" />
+![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=TommyBoshkovski&count_private=true&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyBoshkovski)](https://github.com/anuraghazra/github-readme-stats)
 
