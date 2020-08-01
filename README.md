@@ -2,7 +2,7 @@
 
 ## I'm a CS, Bioinformatician, Neuroscientist!
 - 🎓 I’m currently doing a PhD in Biomedical Engineering @ Polytechnique Montreal
-- 🧠 Part of the NeuroPoly Lab [neuropolyweb]
+- 🧠 Part of the [NeuroPoly Lab][neuropolyweb]
 - 📘 Science communication contributor for ISMRM's and OHBM's blog 
 - ⚡ Fun fact: I love SciFi movies
 
@@ -40,7 +40,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyBoshkovski)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://tommyboshkovski.wixsite.com/index
-[neuropolyweb]: https://tommyboshkovski.wixsite.com/index
+[neuropolyweb]: https://www.neuro.polymtl.ca/
 [twitter]: https://twitter.com/TommyBoshkovski
 [instagram]: https://instagram.com/tommy.boshkovski
 [linkedin]: https://linkedin.com/in/tommy-boshkovski
