@@ -1,5 +1,5 @@
 ### Hi there, I'm Tommy - [website] 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/TommyBoshkovski?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/TommyBoshkovski?color=%231DA1F2&label=Follow%20me&logo=twitter&style=for-the-badge)
 
 ## I'm a CS, Bioinformatician, Neuroscientist!
 - 🎓 I’m currently doing a PhD in Biomedical Engineering @ Polytechnique Montreal
