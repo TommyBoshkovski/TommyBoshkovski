@@ -2,7 +2,7 @@
 
 <a href="https://twitter.com/TommyBoshkovski"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TommyBoshkovski?color=%231DA1F2&label=Follow%20me&logo=twitter&style=for-the-badge"></a>
 
-## I'm a CS, Bioinformatician, Neuroscientist!
+## I'm a Computer scientist, Bioinformatician, Neuroscientist!
 - 🎓 I’m currently doing a PhD in Biomedical Engineering @ Polytechnique Montreal
 - 🧠 Part of the [NeuroPoly Lab][neuropolyweb]
 - 📘 Science communication contributor for ISMRM's and OHBM's blog 
