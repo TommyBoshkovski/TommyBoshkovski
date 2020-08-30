@@ -36,10 +36,20 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyBoshkovski)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=TommyBoshkovski&count_private=true&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyBoshkovski)](https://github.com/anuraghazra/github-readme-stats)
+### Repositories:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TommyBoshkovski&repo=The_R1-weighted_connectome)](https://github.com/TommyBoshkovski/gThe_R1-weighted_connectome)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qMRLab&repo=qMRLab)](https://github.com/qMRLab/qMRLab)
+
+
+
+
+
 
 [website]: https://tommyboshkovski.wixsite.com/index
 [neuropolyweb]: https://www.neuro.polymtl.ca/
